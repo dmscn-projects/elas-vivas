@@ -21,7 +21,7 @@ export function FormsAttendance() {
 
         <p>
           Psicoterapia destinada a mulheres em situação de violência e vulnerabilidade social.
-          Os atendimentos levarão em consideração a realidade socioeconomica da paciente.
+          Os atendimentos levarão em consideração a realidade socioeconômica da paciente.
         </p>
       </div>
     </section>
