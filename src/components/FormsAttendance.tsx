@@ -7,11 +7,11 @@ export function FormsAttendance() {
 
       <div className='px-8 py-14 text-blue-10 flex flex-col gap-8 lg:max-w-lg lg:mx-auto lg:self-center lg:gap-6'>
         <h2 className='text-2xl font-semibold'>
-          Formas de Atendimento
+          Plantão psicológico
         </h2>
 
         <p className='font-medium'>
-          Plantão psicológico, modalidade de atendimento breve e focal em uma demanda.
+          Modalidade de atendimento breve e focal em uma demanda.
           Não se trata de uma psicoterapia, mas de um apoio psicológico a mulheres em situação de violencia.
         </p>
 
