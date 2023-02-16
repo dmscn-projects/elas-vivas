@@ -11,12 +11,12 @@ export function Attendances() {
         <div className='grid gap-4 lg:gap-2'>
           <div className='flex items-center gap-5'>
             <Clock size={80} className='text-yellow-80 lg:w-[4rem]' />
-            <p>As nossas seções acontecem de forma online e são de 40 minutos a 50 minutos.</p>
+            <p>As sessões acontecem de forma on-line, com duração de 50 minutos.</p>
           </div>
 
           <div className='flex items-center gap-5'>
             <Users size={80} className='text-yellow-80 lg:w-[4rem]' />
-            <p>Atendimento feito pela plataforma do Google Meet ou por video chamada.</p>
+            <p>Atendimento feito pela plataforma do Google Meet ou por videochamada.</p>
           </div>
         </div>
 
