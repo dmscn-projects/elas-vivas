@@ -11,8 +11,8 @@ export function Project() {
         <p className='font-medium'>
           O projeto <strong className='font-bold'>ELAS VIVAS</strong> surgiu a partir da necessidade
           de proporcionar um olhar diferenciado para a população de mulheres
-          em situação de vulnerabilidade e violência na sociedade, prestando
-          acolhimento e uma escuta qualificada através do olhar de uma psicologia ética, responsável e social.
+          em situação de vulnerabilidade e violência, prestando
+          acolhimento e escuta qualificada através do olhar de uma psicologia ética, responsável e social.
         </p>
       </div>
 
