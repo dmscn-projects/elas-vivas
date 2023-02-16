@@ -7,7 +7,7 @@ export function Goals() {
 
       <div className='px-8 py-14 text-blue-10 grid gap-6 sm:max-w-lg sm:mx-auto sm:flex sm:flex-col sm:justify-center sm:gap-4'>
         <h2 className='w-full text-2xl leading-6 font-semibold'>
-          Objetivo
+          Objetivos
         </h2>
 
         <p className='font-medium sm:max-w-md'>
@@ -15,7 +15,7 @@ export function Goals() {
         </p>
 
         <p>
-          Oferecer atendimento social e voluntário, para mulheres a partir de 18 anos em situação de violência.
+          Oferecer atendimento social ou voluntário para mulheres a partir de 18 anos em situação de violência.
         </p>
       </div>
     </section>
