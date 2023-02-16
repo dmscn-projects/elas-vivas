@@ -12,7 +12,7 @@ export function FormsAttendance() {
 
         <p className='font-medium'>
           Modalidade de atendimento breve e focal em uma demanda.
-          Não se trata de uma psicoterapia, mas de um apoio psicológico a mulheres em situação de violencia.
+          Não se trata de uma psicoterapia, mas de um apoio psicológico a mulheres em situação de violência.
         </p>
 
         <h2 className='text-2xl font-semibold'>
