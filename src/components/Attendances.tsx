@@ -22,7 +22,7 @@ export function Attendances() {
 
         <p>Caso tenha interesse em marcar um atendimento, é necessario preencher o formulário.</p>
         <a
-          className='py-3 bg-yellow-80 text-blue-10 rounded-md text-center'
+          className='py-3 bg-yellow-80 text-blue-10 rounded-md text-center hover:bg-yellow-600 transition-colors'
           href='https://docs.google.com/forms/d/e/1FAIpQLSfdjsfEsUX5blQ3T5AZth3piZvqdbkWL2q7Oq9gI8x4wBCwew/viewform?usp=sf_link'
         >
           Preencher Formulário
