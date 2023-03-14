@@ -6,7 +6,7 @@ export function Header() {
     <header className='px-8 bg-blue-10'>
       <nav className='pt-11 pb-5 flex items-start justify-between lg:justify-around'>
         <img
-          className='w-auto h-16 lg:h-24'
+          className='w-auto h-16 lg:h-24 hover:scale-110 transition-transform'
           src={Logotipo}
           alt="Logotipo - Elas Vivas."
         />
