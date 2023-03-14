@@ -8,7 +8,12 @@ export function Psychologists() {
       {
         psychologists.map((psychologist) => (
           <div key={`psychologist-${psychologist.id}`} className='flex flex-col gap-6 lg:max-w-4xl lg:flex-row lg:gap-16'>
-            <img className='mx-auto' src={psychologist.profile_image} alt={`Foto de perfil da Psicóloga ${psychologist.name}`} />
+            <a href={psychologist.social} className='mx-auto lg:w-full'>
+              <img
+                className="hover:-rotate-3 transition-transform"
+                src={psychologist.profile_image}
+                alt={`Foto de perfil da Psicóloga ${psychologist.name}`} />
+            </a>
 
             <div className='lg:flex lg:justify-center lg:flex-col lg:gap-6'>
               <div>
