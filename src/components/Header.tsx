@@ -12,16 +12,16 @@ export function Header() {
         />
 
         <ul className='hidden text-white xl:flex lg:gap-20'>
-          <li className='hover:text-yellow-80 transition-colors'>
+          <li className='hover:pb-1 hover:border-b-4 border-yellow-80 transition-all'>
             <a href="#Projeto">Projeto</a>
           </li>
-          <li className='hover:text-yellow-80 transition-colors'>
+          <li className='hover:pb-1 hover:border-b-4 border-yellow-80 transition-all'>
             <a href="#Objetivo">Objetivo</a>
           </li>
-          <li className='hover:text-yellow-80 transition-colors'>
+          <li className='hover:pb-1 hover:border-b-4 border-yellow-80 transition-all'>
             <a href="#Atendimento">Atendimento</a>
           </li>
-          <li className='hover:text-yellow-80 transition-colors'>
+          <li className='hover:pb-1 hover:border-b-4 border-yellow-80 transition-all'>
             <a href="#Psicólogas">Psicólogas</a>
           </li>
         </ul>
